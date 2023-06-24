@@ -2,13 +2,13 @@
 Analysis of various bike stores was dont using  SSMS, Excel, power bi and Tableau.This project take you through the complete analysis of the different bike store brand which sells treking bikes this covers over three years data.
 
 # Analysis conducted on 
-1.Total Revenue - to se overall performance
-2.Revenue by Store - to see best store 
-3.Revenue by Year - change in sales compared year in year
-4.Revenue by Sales Rep - best sales rep
-5.Top customers 
-6.Revenue by Category- which category contributes most
-7.Revenue by State - distribution os sales according to regeion
+1.Total Revenue - to se overall performance.
+2.Revenue by Store - to see best store .
+3.Revenue by Year - change in sales compared year in year.
+4.Revenue by Sales Rep - best sales rep.
+5.Top customers .
+6.Revenue by Category- which category contributes most.
+7.Revenue by State - distribution os sales according to regeion.
 
 
 Data exploration and Data cleaning through Mocrosoft SQL Server - then further connected data to excel to make dashboard- int the end the data was loaded into the tableau to create the final dashboard.
