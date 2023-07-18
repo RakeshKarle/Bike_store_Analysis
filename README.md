@@ -1,5 +1,5 @@
 # Bike_store_Analysis
-Analysis of various bike stores was dont using SSMS, Excel, power bi and Tableau.This project take you through the complete analysis of the different bike store brand which sells treking bikes this covers over three years data.
+Analysis of various bike stores was done using SSMS, Excel, power bi and Tableau.This project take you through the complete analysis of the different bike store brand which sells treking bikes this covers over three years data.
 
 # Analysis conducted on 
 1.Total Revenue - to se overall performance.
